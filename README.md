@@ -1,7 +1,8 @@
 ## Hi there! I'm Gilmara <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 
+<br>
+
 - 🔭 &nbsp;I'm currently working on the Entra21 project 👀
-- 🌱 &nbsp;I’m currently learning Flutter, Go
 - 💬 &nbsp;Ask me about anything related to C#/Typescript/PHP⁄Delphi or Angular/HTML/CSS/Bootstrap
 - 👨‍💻 &nbsp;Front-End Devoloper - Senior Sistemas
 - ⚡ &nbsp;Fun fact: I :heart: :dog:s
@@ -10,17 +11,18 @@
 
 ## Connect with me
 <br>
+<a href="https://www.instagram.com/gilmaracz/?hl=pt-br"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>	
 <a href="https://www.linkedin.com/in/gilmarazimmermann/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href="https://www.reddit.com/user/envoyVC1084"><img src="	https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white"></a>
 <a href="mailto:gilmaracilene@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 <a href="https://api.whatsapp.com/send?phone=5547991906759&text=Hi%20Gilmara!"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
 <a href="https://steamcommunity.com/id/gilmarazimmermann/"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white"></a>
 <a href="https://open.spotify.com/user/xyxok2wwidzvfr8tj9hu77p6z"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"></a>
 
-<br><br>
 <br>
 
-### <img src="https://media3.giphy.com/media/3y0oCOkdKKRi0/giphy.gif?cid=ecf05e47vb4jo497mx8dxnrvontwekp1by08q19rmvfvq2vn&rid=giphy.gif&ct=g" width="50"> A little more about me...  
+##  A little more about me...  <img src="https://im.ezgif.com/tmp/ezgif-1-0c7f2c9b6d43.gif" width="30">
+
+<br>
 
 ```javascript
 const gilmara = {
