@@ -1,4 +1,4 @@
-## Hi there! I'm Gilmara&nbsp;<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
+## Hello World! I'm Gilmara&nbsp;<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 
 <br>
 
@@ -44,7 +44,7 @@ const gilmara = {
 ```
 <br>
 
-## Recently Played <img src="https://im4.ezgif.com/tmp/ezgif-4-c7816d3d1349.gif" width="70"> 
+## Recently Played &nbsp;<img src="https://im4.ezgif.com/tmp/ezgif-4-c7816d3d1349.gif" width="70"> 
 
 <br>
 
@@ -53,61 +53,33 @@ const gilmara = {
 <br>
 
 ## My Skill Set  
-<div style="display: inline_block"><br>
-  <img align="center" alt="Gil-Js" width="50"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg">
-  <img align="center" alt="Gil-Ts" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://share-cdn.picrew.me/shareImg/org/202110/1260161_usDITpe0.png">
+<div style="display: inline_block">
+    <br>
+  <img align="center" alt="Gil-Angular" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg">
+  <img align="center" alt="Gil-Ts" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="Gil-Js" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Gil-Bootstrap" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg">
+  <img align="center" alt="Gil-HTML" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Gil-CSS"  width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Gil-Csharp" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center" alt="Gil-php" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg">
+  <img align="center" alt="Gil-NodeJs" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
+  <img align="center" alt="Gil-post" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg">
+  <img align="center" alt="Gil-mysql" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
+  <img align="center" alt="Gil-npm" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg">
+  <img align="center" alt="Gil-npm" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
+  <img align="center" alt="Gil-studio" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg">
+  <img align="center" alt="Gil-photoshop" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg">
+  <img align="center" alt="Gil-illustrator" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg">
+  <img align="center" alt="Gil-xd" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-plain.svg">    
 </div>
-
-<br>
-<br>
-
-----
-
-<br>
-
-## 📕 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- [NumPy - dtypes](https://dev.to/envoy_/numpy-dtypes-55d8)
-- [NumPy - ndarrays](https://dev.to/envoy_/numpy-ndarrays-1m6e)
-- [NumPy - Introduction](https://dev.to/envoy_/numpy-introduction-jjg)
-- [How Random Is Random?](https://dev.to/envoy_/how-random-is-random-15eb)
-- [Kovacs](https://dev.to/envoy_/kovacs-45bi)
-<!-- BLOG-POST-LIST:END -->
-
-<br>
-<br>
-
-----
-
-<br>
-
-
-## 📊 Weekly Development Breakdown
-
-<!--START_SECTION:waka-->
-```text
-No Activity tracked this Week
-```
-<!--END_SECTION:waka-->
-
-<br>
-<br>
-
-----
 
 <br>
 
 ## Github Stats
 <br>
 
-![Envoy-VC's GitHub stats](https://readme-stats-envoy-vc.vercel.app/api?username=envoy-vc&show_icons=true&theme=dark)
+![Envoy-VC's GitHub stats](https://readme-stats-envoy-vc.vercel.app/api?username=gilmarazimmermann&show_icons=true&theme=dark)
 
 <br>
 
@@ -115,35 +87,10 @@ No Activity tracked this Week
 
 <br>
 
-[![Top Languages](https://readme-stats-envoy-vc.vercel.app/api/top-langs/?username=envoy-vc&layout=compact)](https://github.com/Envoy-VC/Envoy-VC)
-
-<br>
-<br>
-
-----
+[![Top Languages](https://readme-stats-envoy-vc.vercel.app/api/top-langs/?username=gilmarazimmermann&layout=compact)](https://github.com/Envoy-VC/Envoy-VC)
 
 <br>
 
-
-<details>
-  <summary>⚡ Recent GitHub Activity</summary>
-  
-<!--START_SECTION:activity-->
-1. 💪 Opened PR [#8](https://github.com/lonewolf1084/hello/pull/8) in [lonewolf1084/hello](https://github.com/lonewolf1084/hello)
-2. 💪 Opened PR [#7](https://github.com/lonewolf1084/hello/pull/7) in [lonewolf1084/hello](https://github.com/lonewolf1084/hello)
-3. 💪 Opened PR [#6](https://github.com/lonewolf1084/hello/pull/6) in [lonewolf1084/hello](https://github.com/lonewolf1084/hello)
-4. 💪 Opened PR [#5](https://github.com/lonewolf1084/hello/pull/5) in [lonewolf1084/hello](https://github.com/lonewolf1084/hello)
-<!--END_SECTION:activity-->
-
-</details>
-
-<br>
-<br>
-
-----
-
-<br>
-
- ## Contribuições:
+ ## Contributions
 ![Snake animation](https://github.com/GeovaniTech/GeovaniTech/blob/output/github-contribution-grid-snake.svg)
 </div>
