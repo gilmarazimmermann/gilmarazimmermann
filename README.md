@@ -20,7 +20,7 @@
 
 <br>
 
-##  A Little More About Me &nbsp;<img src="https://im.ezgif.com/tmp/ezgif-1-0c7f2c9b6d43.gif" width="30">
+##  A Little More About Me &nbsp;<img src="https://im.ezgif.com/tmp/ezgif-1-0c7f2c9b6d43.gif" width="30"> 
 
 <br>
 
@@ -28,32 +28,34 @@
 const gilmara = {
     pronouns: "She" | "Her",
     code: ["C#", "PHP","HTML", "CSS","Angular"],
-    askM eAbout: ["WebDev", "Tech", "Gaming"],
+    askMeAbout: ["WebDev", "Tech", "Gaming"],
     technologies: {
         backEnd: {
             js: ["Node"],
+            ["C#"],
+            ["JavaScript"],
         },
-        devOps: ["AWS", "Docker🐳"],
-        databases: ["mongo", "MySql", "sqlite"],
-        misc: ["Firebase", "Socket.IO", "selenium", "open-cv", "php", "SuiteApp","discord.py"]
+        devOps: ["AWS"],
+        databases: ["SQL Server", "MySql", "PostgreSQL"],
     },
     currentFocus: "Angular",
-    fun: "Two bytes meet.  The first byte asks, 'Are you ill?'
-          The second byte replies, 'No, just feeling a bit off.'"
+    fun: "An ARP request goes to McDonald's and asks for a Big MAC."
 };
 ```
 <br>
 
-## Now Playing
+## Recently Played <img src="https://im4.ezgif.com/tmp/ezgif-4-c7816d3d1349.gif" width="70"> 
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=xyxok2wwidzvfr8tj9hu77p6z&cover_image=true&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=xyxok2wwidzvfr8tj9hu77p6z&redirect=true)
-----
+<br>
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=xyxok2wwidzvfr8tj9hu77p6z&cover_image=true&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=xyxok2wwidzvfr8tj9hu77p6z&redirect=true) 
+
 <br>
 
 ## My Skill Set  
 <div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.14.0/devicon.min.css">
-  <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="Gil-Js" width="50"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg">
+  <img align="center" alt="Gil-Ts" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
