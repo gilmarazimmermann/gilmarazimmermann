@@ -1,4 +1,4 @@
-### Hi there! I'm Gilmara <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></a>
+## Hi there! I'm Gilmara <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 
 - 🔭 &nbsp;I'm currently working on the Entra21 project 👀
 - 🌱 &nbsp;I’m currently learning Flutter, Go
@@ -14,19 +14,19 @@
 <a href="https://www.reddit.com/user/envoyVC1084"><img src="	https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white"></a>
 <a href="mailto:gilmaracilene@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 <a href="https://api.whatsapp.com/send?phone=5547991906759&text=Hi%20Gilmara!"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
-<a href="https://steamcommunity.com/profiles/76561199077181432/"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white"></a>
-<a href="https://open.spotify.com/user/31ojwb23shspr6yxfudndihfrvae"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"></a>
+<a href="https://steamcommunity.com/id/gilmarazimmermann/"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white"></a>
+<a href="https://open.spotify.com/user/xyxok2wwidzvfr8tj9hu77p6z"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"></a>
 
+<br><br>
 <br>
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+### <img src="https://media3.giphy.com/media/3y0oCOkdKKRi0/giphy.gif?cid=ecf05e47vb4jo497mx8dxnrvontwekp1by08q19rmvfvq2vn&rid=giphy.gif&ct=g" width="50"> A little more about me...  
 
 ```javascript
-const vedant = {
-    pronouns: "She" | "Him",
-    code: ["C#", "PHP","HTML", "CSS","MySQL"],
-    askM
-    eAbout: ["WebDev", "Tech", "Gaming"],
+const gilmara = {
+    pronouns: "She" | "Her",
+    code: ["C#", "PHP","HTML", "CSS","Angular"],
+    askM eAbout: ["WebDev", "Tech", "Gaming"],
     technologies: {
         backEnd: {
             js: ["Node"],
@@ -48,7 +48,6 @@ const vedant = {
 ## Now Playing
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=xyxok2wwidzvfr8tj9hu77p6z&cover_image=true&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=xyxok2wwidzvfr8tj9hu77p6z&redirect=true)
-
 ----
 <br>
 
@@ -61,7 +60,7 @@ const vedant = {
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/639956127056134178/890373478988013628/Publicacoes_Instagram_1_1.png?width=676&height=676">
+  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://share-cdn.picrew.me/shareImg/org/202110/1260161_usDITpe0.png">
 </div>
 
 <br>
