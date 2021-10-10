@@ -1,8 +1,8 @@
-### Olá, me chamo Gilmara! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></a>
+### Hi there! I'm Gilmara <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></a>
 
-- 🔭 &nbsp;I’m currently working on something cool :wink:
+- 🔭 &nbsp;I'm currently working on the Entra21 project 👀
 - 🌱 &nbsp;I’m currently learning Flutter, Go
-- 💬 &nbsp;Ask me about anything related to Javascript/Typescript/Python or Angular/React/Express/Flask
+- 💬 &nbsp;Ask me about anything related to C#/Typescript/PHP⁄Delphi or Angular/HTML/CSS/Bootstrap
 - 📫 &nbsp;How to reach me: [@gautamkrishnar](https://twitter.com/gautamkrishnar) or <a rel="me" href="https://fosstodon.org/@gkr">fosstodon.org/@gkr</a>
 - 👨‍💻 &nbsp; Senior Sistemas - Desenvolvedora Front-End 
 - ⚡ &nbsp;Fun fact: I :heart: :dog:s
