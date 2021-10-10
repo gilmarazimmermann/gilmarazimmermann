@@ -1,13 +1,9 @@
-
-<br>
-
 ### Hi there! I'm Gilmara <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></a>
 
 - 🔭 &nbsp;I'm currently working on the Entra21 project 👀
 - 🌱 &nbsp;I’m currently learning Flutter, Go
 - 💬 &nbsp;Ask me about anything related to C#/Typescript/PHP⁄Delphi or Angular/HTML/CSS/Bootstrap
-- 📫 &nbsp;How to reach me: [@gautamkrishnar](https://twitter.com/gautamkrishnar) or <a rel="me" href="https://fosstodon.org/@gkr">fosstodon.org/@gkr</a>
-- 👨‍💻 &nbsp; Senior Sistemas - Desenvolvedora Front-End 
+- 👨‍💻 &nbsp;Front-End Devoloper - Senior Sistemas
 - ⚡ &nbsp;Fun fact: I :heart: :dog:s
 
 <br>
@@ -21,8 +17,6 @@
 <a href="https://steamcommunity.com/profiles/76561199077181432/"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white"></a>
 <a href="https://open.spotify.com/user/31ojwb23shspr6yxfudndihfrvae"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"></a>
 
-<br><br>
-
 <br>
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
@@ -31,7 +25,8 @@
 const vedant = {
     pronouns: "She" | "Him",
     code: ["C#", "PHP","HTML", "CSS","MySQL"],
-    askMeAbout: ["WebDev", "Tech", "Gaming"],
+    askM
+    eAbout: ["WebDev", "Tech", "Gaming"],
     technologies: {
         backEnd: {
             js: ["Node"],
@@ -52,14 +47,14 @@ const vedant = {
 
 ## Now Playing
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=xyxok2wwidzvfr8tj9hu77p6z&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=xyxok2wwidzvfr8tj9hu77p6z&cover_image=true&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=xyxok2wwidzvfr8tj9hu77p6z&redirect=true)
 
 ----
 <br>
 
 ## My Skill Set  
 <div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.14.0/devicon.min.css">
   <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
