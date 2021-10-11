@@ -39,7 +39,7 @@ const gilmara = {
         databases: ["SQL Server", "MySql", "PostgreSQL"],
     },
     currentFocus: "Angular",
-    itJoker: "An ARP request goes to McDonald's and asks for a Big MAC."
+    itJoke: "An ARP request goes to McDonald's and asks for a Big MAC."
 };
 ```
 <br>
