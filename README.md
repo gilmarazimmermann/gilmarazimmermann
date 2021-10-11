@@ -20,7 +20,7 @@
 
 <br>
 
-##  A Little More About Me &nbsp;<img src="https://im.ezgif.com/tmp/ezgif-1-0c7f2c9b6d43.gif" width="30"> 
+##  A Little More About Me &nbsp;<img src="https://im7.ezgif.com/tmp/ezgif-7-43632e1c33b5.gif" width="30"> 
 
 <br>
 
