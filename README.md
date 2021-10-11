@@ -77,13 +77,44 @@ const gilmara = {
 <br>
 
 ## Github Stats
+
 <br>
 
 ![Gilmara Zimmermann's GitHub stats](https://github-readme-stats.vercel.app/api/?username=gilmarazimmermann&show_icons=true&title_color=fff&icon_color=32B44A&text_color=9f9f9f&bg_color=151515)
 
 <br>
 
-![](https://github.com/gilmarazimmermann/github-stats/blob/master/generated/overview.svg)
+## Experience
+
+<br>
+
+<table><tr><th align="left">
+  
+### 🌌 Complex
+
+</th><th align="left">
+  
+### ☄️ Simple
+
+</th><th align="left">
+  
+### 🚀 Learning
+
+</th><th align="left">
+  
+### 🕳️ Fading
+
+</th>
+</tr>
+<tr valign="top">
+<td>C#<br>JavaScript<br></td>
+<td>CSS<br>HTML<br>MySQL<br>Angular</td>
+<td>Delphi</td>
+<td>C++<br>PHP</td>
+</tr>
+</table>    
+
+<br>
 
  ## Contributions
 ![Snake animation](https://github.com/GeovaniTech/GeovaniTech/blob/output/github-contribution-grid-snake.svg)
