@@ -39,7 +39,7 @@ const gilmara = {
         databases: ["SQL Server", "MySql", "PostgreSQL"],
     },
     currentFocus: "Angular",
-    fun: "An ARP request goes to McDonald's and asks for a Big MAC."
+    itJoker: "An ARP request goes to McDonald's and asks for a Big MAC."
 };
 ```
 <br>
@@ -79,7 +79,7 @@ const gilmara = {
 ## Github Stats
 <br>
 
-![Gilmara Zimmermann's GitHub stats](https://github-readme-stats.vercel.app/api/?username=gilmarazimmermann&show_icons=true&title_color=fff&icon_color=7c276a&text_color=9f9f9f&bg_color=151515)
+![Gilmara Zimmermann's GitHub stats](https://github-readme-stats.vercel.app/api/?username=gilmarazimmermann&show_icons=true&title_color=fff&icon_color=32B44A&text_color=9f9f9f&bg_color=151515)
 
 <br>
 
