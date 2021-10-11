@@ -1,4 +1,4 @@
-## Hello World! I'm Gilmara&nbsp;<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
+## Hello World! I'm Gilmara&nbsp;<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 <br>
 
@@ -20,7 +20,7 @@
 
 <br>
 
-##  A Little More About Me &nbsp;<img src="https://im7.ezgif.com/tmp/ezgif-7-43632e1c33b5.gif" width="30"> 
+##  A Little More About Me &nbsp;<img src="https://i.imgur.com/hl1vnB5.gif" width="25"> 
 
 <br>
 
