@@ -87,7 +87,7 @@ const gilmara = {
 
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gilmarazimmermann&layout=compact&theme=dark)](https://github.com/gilmarazimmermann/gilmarazimmermann)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gilmarazimmermann&langs_count=8)](https://github.com/gilmarazimmermann/gilmarazimmermann)
 
 
 <br>
