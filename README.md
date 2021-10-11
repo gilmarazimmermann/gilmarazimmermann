@@ -79,7 +79,7 @@ const gilmara = {
 ## Github Stats
 <br>
 
-![Gilmara Zimmermann's GitHub stats](https://readme-stats-gilmarazimmermann.vercel.app/api?username=gilmarazimmermann&show_icons=true&theme=dark)
+[![Gilmara Zimmermann's GitHub stats](https://github-readme-stats.vercel.app/api?username=gilmarazimmermann&show_icons=true&theme=dark)](https://github.com/gilmarazimmermann/gilmarazimmermann)
 
 <br>
 
@@ -87,7 +87,8 @@ const gilmara = {
 
 <br>
 
-[![Top Languages](https://readme-stats-envoy-vc.vercel.app/api/top-langs/?username=gilmarazimmermann&layout=compact)](https://github.com/Envoy-VC/Envoy-VC)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gilmarazimmermann&layout=compact&theme=dark)](https://github.com/gilmarazimmermann/gilmarazimmermann)
+
 
 <br>
 
