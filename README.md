@@ -79,7 +79,7 @@ const gilmara = {
 ## Github Stats
 <br>
 
-![Gilmara Zimmermann's GitHub stats](https://readme-stats-gilmarazimmermann.vercel.app/api?username=gilmarazimmermann&show_icons=true&theme=dark)
+![Gilmara Zimmermann's GitHub stats](https://github-readme-stats.vercel.app/api/?username=gilmarazimmermann&show_icons=true&title_color=fff&icon_color=7c276a&text_color=9f9f9f&bg_color=151515)
 
 <br>
 
