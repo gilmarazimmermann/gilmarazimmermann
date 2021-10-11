@@ -44,7 +44,7 @@ const gilmara = {
 ```
 <br>
 
-## Recently Played &nbsp;<img src="https://i.imgur.com/yGS946A.gif" width="70"> 
+## Recently Played &nbsp;<img src="https://i.imgur.com/IX3k0ej.gif" width="20"> 
 
 <br>
 
@@ -82,6 +82,8 @@ const gilmara = {
 ![Gilmara Zimmermann's GitHub stats](https://github-readme-stats.vercel.app/api/?username=gilmarazimmermann&show_icons=true&title_color=fff&icon_color=7c276a&text_color=9f9f9f&bg_color=151515)
 
 <br>
+
+![](https://github.com/gilmarazimmermann/github-stats/blob/master/generated/overview.svg)
 
  ## Contributions
 ![Snake animation](https://github.com/GeovaniTech/GeovaniTech/blob/output/github-contribution-grid-snake.svg)
