@@ -44,7 +44,7 @@ const gilmara = {
 ```
 <br>
 
-## Recently Played &nbsp;<img src="https://im4.ezgif.com/tmp/ezgif-4-c7816d3d1349.gif" width="70"> 
+## Recently Played &nbsp;<img src="https://i.imgur.com/yGS946A.gif" width="70"> 
 
 <br>
 
