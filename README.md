@@ -119,5 +119,5 @@ const gilmara = {
 <br>
 
  ## Contributions
-![Snake animation](https://github.com/GeovaniTech/GeovaniTech/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/gilmarazimmermann/gilmarazimmermann/blob/output/github-contribution-grid-snake.svg)
 </div>
