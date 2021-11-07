@@ -115,9 +115,3 @@ const gilmara = {
 <td>C++<br>PHP</td>
 </tr>
 </table>    
-
-<br>
-
- ## Contributions
-![Snake animation](https://github.com/gilmarazimmermann/gilmarazimmermann/blob/output/github-contribution-grid-snake.svg)
-</div>
