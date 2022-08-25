@@ -2,7 +2,6 @@
 
 <br>
 
-- 🔭 &nbsp;I'm currently working on the Entra21 project 👀
 - 💬 &nbsp;Ask me about anything related to C#/Typescript/PHP⁄Delphi or Angular/HTML/CSS/Bootstrap
 - 👨‍💻 &nbsp;Developer - Senior Sistemas
 - ⚡ &nbsp;Fun fact: I :heart: :dog:s
