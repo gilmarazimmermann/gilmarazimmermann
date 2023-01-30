@@ -25,7 +25,7 @@
 
 ```javascript
 const gilmara = {
-    pronouns: "She" | "Her",
+    pronouns: ["She" | "Her"],
     code: ["C#", "PHP","HTML", "CSS","Angular"],
     askMeAbout: ["WebDev", "Tech", "Gaming"],
     technologies: {
