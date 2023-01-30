@@ -108,7 +108,7 @@ const gilmara = {
 </th>
 </tr>
 <tr valign="top">
-<td>C#<br>JavaScript<br></td>
+<td>C#<br>Java<br></td>
 <td>CSS<br>HTML<br>MySQL<br>Angular</td>
 <td>Delphi</td>
 <td>C++<br>PHP</td>
