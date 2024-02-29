@@ -3,7 +3,7 @@
 <br>
 
 - 💬 &nbsp;Ask me about anything related to C#/Typescript/PHP⁄Delphi or Angular/HTML/CSS/Bootstrap
-- 👨‍💻 &nbsp;Support Analyst - Linx Sistemas
+- 👨‍💻 &nbsp;Support Analyst - Handit
 - ⚡ &nbsp;Fun fact: I :heart: :dog:s
 
 <br>
